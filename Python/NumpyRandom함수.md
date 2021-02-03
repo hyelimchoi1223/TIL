@@ -1,5 +1,6 @@
 ---
 title: Numpy Random 함수
+parent: Python
 has_children: false
 nav_order: 1
 ---
