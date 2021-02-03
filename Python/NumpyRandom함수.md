@@ -1,6 +1,6 @@
 ---
 title: Numpy Random 함수
-parent: PythonMain
+parent: Python
 has_children: false
 ---
 # Numpy Random 함수
