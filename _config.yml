@@ -16,5 +16,5 @@
 title: "HyeLim's TIL✍️"
 remote_theme: pmarsceill/just-the-docs
 baseurl: "/TIL" # the subpath of your site, e.g. /blog
-url: "https://hyelimchoi1223.github.io/TIL" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hyelimchoi1223.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
