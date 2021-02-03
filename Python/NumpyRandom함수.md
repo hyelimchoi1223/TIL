@@ -2,7 +2,6 @@
 title: Numpy Random 함수
 parent: PythonMain
 has_children: false
-nav_order: 1
 ---
 # Numpy Random 함수
 
