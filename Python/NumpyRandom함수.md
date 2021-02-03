@@ -1,3 +1,8 @@
+---
+title: Numpy Random 함수
+has_children: false
+nav_order: 1
+---
 # Numpy Random 함수
 
 난수를 생성하는 함수이다.
