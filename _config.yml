@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "HyeLim's TIL✍️"
 remote_theme: pmarsceill/just-the-docs
-url: "https://hyelimchoi1223.github.io/TIL" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hyelimchoi1223.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-seo-tag
