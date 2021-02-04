@@ -19,7 +19,7 @@ iterable 데이터를 정렬하는 함수. 오름차순, 내림차순 설정할 
 
 ### 기본
 
-```python
+```
 data = ["banana", "dragon", "apple", "egg"]
 result = sorted(data)
 print(result)
@@ -32,7 +32,7 @@ print(result)
 
 data 리스트에서 글자 개수가 적은 순으로 정렬
 
-```python
+```
 data = ["banana", "dragon", "apple", "egg"]
 result = sorted(data, key= str.__len__)
 print(result)
@@ -43,7 +43,7 @@ print(result)
 
 ### 내림차순 정렬
 
-```python
+```
 data = ["banana", "dragon", "apple", "egg"]
 result = sorted(data, reverse=True)
 print(result)
